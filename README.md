@@ -6,9 +6,9 @@ This mouse_volume.sh file allows you to change volume using your mouse.
 
 2. Find mouse ID and side button
 
-   a. find mouse pointer ID using `xinput list` then find side button number using `xinput test[ID]`
+   Find mouse pointer ID using `xinput list` then find side button number using `xinput test[ID]`
    
-   b. edit `MOUSE_ID` and `SIDE_BUTTON` in the file
+   Edit `MOUSE_ID` and `SIDE_BUTTON` in the file
 
 
 4. Download file and make it executable
