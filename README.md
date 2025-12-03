@@ -15,6 +15,6 @@ This mouse_volume.sh file allows you to change volume using your mouse.
 
       `chmod +x mouse_volume.sh`
 
-5. Execute.
+5. Execute
 
       `./mouse_volume.sh`
